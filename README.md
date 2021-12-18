@@ -1,10 +1,10 @@
 ## TVAPLR - Tutoriais Virtuais para Aprendizagem da Linguagem R
 
-Aqui você vai encontrar tutoriais para aprendozagem da linguagem R. Eles foram desenvolvidos usando o pacote R e inspirado nas diversas aplicações encontradas na Web.
+Aqui você vai encontrar tutoriais para aprendozagem da linguagem R. Eles foram desenvolvidos usando o pacote **learnr**, usando como modelo as diversas aplicações encontradas na Web.
 
 Este é um site em construção e portanto as atualizaçõe serão frequentes.
 
-Esta é a lista atual de tutorias
+Esta é a lista atual de tutorias:
 
 [TVAPLR-1](https://tvalr.shinyapps.io/tvalr_01/)
 
