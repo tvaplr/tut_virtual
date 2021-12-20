@@ -12,4 +12,4 @@ Esta é a lista atual de tutorias:
 
 [TVAPLR-3](https://tvalr.shinyapps.io/tvalr_03/)
 
-
+[TVAPLR-4](https://tvalr.shinyapps.io/tvalr_04/)
