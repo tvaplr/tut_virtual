@@ -1,6 +1,8 @@
 ## TVAPLR - Tutoriais Virtuais para Aprendizagem da Linguagem R
 
-Aqui você vai encontrar tutoriais para aprendozagem da linguagem R. Eles foram desenvolvidos usando o pacote **learnr**, usando como modelo as diversas aplicações encontradas na Web.
+Eses tutorias têm como objetivo fazer uma introdução suave do R [R Project for Statistical Computing](https://www.r-project.org/). Existem centenas ou talvez milhares de fontes de informação sobre o R e sua linguagem, mas provavelmente 99% deles são em inglês. Por mais que saibamos que seja fundamental saber inglês, pois nesta língua é que você vai encontrar maior parte das fontes de informação, estes tutoriais buscam trazer algum conhecimento sobre esta linguagem através de exemplos escritos em português e usando fontes de dados do Brasil.    
+
+Aqui você vai encontrar tutoriais para aprendizagem da linguagem R. Eles foram desenvolvidos usando o pacote **learnr**, usando como modelo as diversas aplicações encontradas na Web.
 
 Este é um site em construção e portanto as atualizaçõe serão frequentes.
 
