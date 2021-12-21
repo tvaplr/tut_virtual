@@ -16,7 +16,7 @@ Instalando o R e o RStudio: [TVAPLR-1](https://tvalr.shinyapps.io/tvalr_01/)
 
 Comandos Básicos 1: [TVAPLR-2](https://tvalr.shinyapps.io/tvalr_02/)
 
-Comandos Básicos 2[TVAPLR-3](https://tvalr.shinyapps.io/tvalr_03/)
+Comandos Básicos 2: [TVAPLR-3](https://tvalr.shinyapps.io/tvalr_03/)
 
 Explorando os dados: [TVAPLR-4](https://tvalr.shinyapps.io/tvalr_04/)
 
