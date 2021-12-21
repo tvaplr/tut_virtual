@@ -20,3 +20,4 @@ Comandos Básicos 2: [TVAPLR-3](https://tvalr.shinyapps.io/tvalr_03/)
 
 Explorando os dados: [TVAPLR-4](https://tvalr.shinyapps.io/tvalr_04/)
 
+
